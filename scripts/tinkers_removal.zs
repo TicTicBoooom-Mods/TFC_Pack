@@ -1,0 +1,26 @@
+import mods.gregtech.recipe.RecipeMap;
+import mods.tconstruct.Casting;
+
+Casting.removeTableRecipe(<item:tconstruct:pick_head>);
+Casting.removeTableRecipe(<item:tfc_tinker:propick_head>);
+Casting.removeTableRecipe(<item:tconstruct:axe_head>);
+Casting.removeTableRecipe(<item:tconstruct:shovel_head>);
+Casting.removeTableRecipe(<item:tconstruct:broad_axe_head>);
+Casting.removeTableRecipe(<item:tconstruct:sword_blade>);
+Casting.removeTableRecipe(<item:tconstruct:large_sword_blade>);
+Casting.removeTableRecipe(<item:tconstruct:hammer>);
+Casting.removeTableRecipe(<item:tconstruct:excavator_head>);
+Casting.removeTableRecipe(<item:tconstruct:kama_head>);
+Casting.removeTableRecipe(<item:tconstruct:scythe_head>);
+Casting.removeTableRecipe(<item:tconstruct:sign_head>);
+Casting.removeTableRecipe(<item:tconstruct:pan_head>);
+Casting.removeTableRecipe(<item:tconstruct:tool_rod>);
+Casting.removeTableRecipe(<item:tconstruct:tough_tool_rod>);
+Casting.removeTableRecipe(<item:tconstruct:binding>);
+Casting.removeTableRecipe(<item:tconstruct:wide_guard>);
+Casting.removeTableRecipe(<item:tconstruct:cross_guard>);
+Casting.removeTableRecipe(<item:tconstruct:large_plate>);
+Casting.removeTableRecipe(<item:tconstruct:knife_blade>);
+Casting.removeTableRecipe(<item:tconstruct:bow_limb>);
+Casting.removeTableRecipe(<item:tconstruct:arrow_head>);
+Casting.removeTableRecipe(<item:tconstruct:knife_blade>);

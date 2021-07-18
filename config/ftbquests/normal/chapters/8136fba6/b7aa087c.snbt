@@ -1,0 +1,20 @@
+{
+	title: "Flux Rocks",
+	icon: "tfc:rock/chalk",
+	disable_toast: true,
+	x: -3.5d,
+	y: -3.5d,
+	text: [
+		"As you progress, you will eventually require to forge tools.",
+		"Some common forging actions require you to use Flux, which is aquired from specific rock types in the world.",
+		"These rock types are Marble, Chalk, Dolomite and Limestone.",
+		"Make sure to mark them for future when you're gonna need flux."
+	],
+	dependencies: [
+		"bb9d7417"
+	],
+	tasks: [{
+		uid: "8b8efc5d",
+		type: "checkmark"
+	}]
+}

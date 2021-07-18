@@ -1,0 +1,81 @@
+{
+	title: "Pit Kiln",
+	x: 4.5d,
+	y: 1.5d,
+	text: [
+		"Pit kilns are used to fire your molded clay into usuable items.",
+		"You will also need a firestarter to start the pit kiln",
+		"",
+		"A pit kiln is made in world.",
+		"- Dig a hole to place your molded clay into.",
+		"- Place the molded clay into the pit (Default: V)",
+		"- Fill the pit with straw by right-clicking into it",
+		"- Fill the remaining space with logs the same way.",
+		"",
+		"Now use the firestarter on the pit kiln until it sets on fire, it might take a few tries.",
+		"The pit kiln might burn for a while.",
+		"Once the pit kiln has finished, the items will be waiting for you to break and pick up.",
+		"Jugs have a chance of breaking when you drink from them, I'm gonna give you a spare one just in case."
+	],
+	dependencies: [
+		"dca3179b",
+		"dfea98b3"
+	],
+	tasks: [{
+		uid: "e3d29343",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "tfc:firestarter"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "6004f2f7",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					heat: 0.0f,
+					fluidMode: 0b,
+					ticks: -1L,
+					items: {
+						Size: 4,
+						Items: []
+					}
+				}
+			},
+			id: "tfc:ceramics/fired/vessel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "c26b5c80",
+		type: "item",
+		items: [{
+			item: "tfc:ceramics/fired/jug"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9c865200",
+		type: "item",
+		item: "tfc:ceramics/fired/jug"
+	},
+	{
+		uid: "d535b521",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				Parent: {
+					heat: 0.0f,
+					ticks: -1L
+				}
+			},
+			id: "tfc:ceramics/fired/large_vessel"
+		}
+	}]
+}

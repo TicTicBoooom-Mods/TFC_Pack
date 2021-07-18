@@ -1,0 +1,41 @@
+{
+	title: "Molding your clay",
+	x: 3.0d,
+	y: 1.5d,
+	text: [
+		"Use the clay you gathered to knap a small vessel. Small Vessel allow for early game storage, able to store a whopping 4 items once they are fired but more importantly they will be used later on to smelt your starting ores to make your first metal tools.",
+		"You can also make a Large Vessel, it stores 9 items instead and it allows you to slightly preserve some of your foods when sealed.",
+		"",
+		"Also knap a water jug, this allows you store fresh water to drink later."
+	],
+	dependencies: [
+		"2f10f434"
+	],
+	tasks: [{
+		uid: "da2b90e8",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					heat: 0.0f,
+					ticks: -1L
+				}
+			},
+			id: "tfc:ceramics/unfired/vessel"
+		}]
+	},
+	{
+		uid: "78c9b13c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					heat: 0.0f,
+					ticks: -1L
+				}
+			},
+			id: "tfc:ceramics/unfired/jug"
+		}]
+	}]
+}

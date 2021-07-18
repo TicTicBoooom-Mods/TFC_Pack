@@ -1,0 +1,30 @@
+{
+	title: "Clay for your Clay needs",
+	x: 1.5d,
+	y: 1.5d,
+	text: [
+		"Clay is a key resource early on in the game. It allows you to create vessels and molds which you can start making metal tool heads with.",
+		"",
+		"Clay is found on the surface layer of the world, hidden in dirt and grass. You will need to check around to find those clay patches to dig up.",
+		"",
+		"You might want to knap yourself a stone shovel head to help you dig this up."
+	],
+	dependencies: [
+		"6c1f2e22"
+	],
+	tasks: [{
+		uid: "e301f4c5",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "minecraft:clay_ball"
+		}],
+		count: 5L
+	}],
+	rewards: [{
+		uid: "117bb1a4",
+		type: "item",
+		item: "minecraft:clay_ball",
+		count: 32
+	}]
+}

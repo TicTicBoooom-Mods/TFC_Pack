@@ -1,0 +1,18 @@
+{
+	title: "Hints and Tips",
+	disable_toast: true,
+	x: -2.5d,
+	y: -3.5d,
+	shape: "rsquare",
+	text: [
+		"There are various things you should look out for as you explore this world.",
+		"Remember that you have JourneyMap, use this to your advantage as you explore the world, and mark waypoints (default: B) for any points of interest."
+	],
+	tasks: [{
+		uid: "aa95024b",
+		type: "checkmark",
+		title: "Hints and Tips",
+		icon: "minecraft:paper",
+		disable_toast: true
+	}]
+}

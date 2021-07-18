@@ -1,0 +1,40 @@
+{
+	title: "Wood and Straw",
+	x: 4.5d,
+	y: 0.0d,
+	text: [
+		"Get enough logs and straw to be able to start a pit kiln."
+	],
+	dependencies: [
+		"cd21fa90"
+	],
+	tasks: [{
+		uid: "0b5005f7",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "logWood",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any logWood"
+				}
+			}
+		}],
+		count: 8L
+	},
+	{
+		uid: "6f35ed55",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "tfc:straw"
+		}],
+		count: 8L
+	}]
+}

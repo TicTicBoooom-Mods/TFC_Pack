@@ -1,0 +1,27 @@
+{
+	title: "Metal-bearing rocks",
+	icon: {
+		ForgeCaps: {
+			Parent: {
+				heat: 0.0f,
+				ticks: -1L
+			}
+		},
+		id: "tfc:ore/small/native_copper"
+	},
+	disable_toast: true,
+	x: -3.5d,
+	y: -2.5d,
+	text: [
+		"Some rocks that you find in the world will contain samples of metal.",
+		"This is an indication that and ore of that type is located somewhere below, possibly deep below.",
+		"You should mark those ore types are you come across them, as you will without a doubt require them at some point in the future."
+	],
+	dependencies: [
+		"bb9d7417"
+	],
+	tasks: [{
+		uid: "fba0993e",
+		type: "checkmark"
+	}]
+}

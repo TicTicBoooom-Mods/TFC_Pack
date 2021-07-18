@@ -1,0 +1,2033 @@
+[PREINITIALIZATION][CLIENT][INFO] Thank you to the Patreon supporters below and others who make CraftTweaker possible!
+Genryu
+Pongo Sapiens
+Robijnvogel
+IDroid
+NerdyWhiteGuy
+Luckyclaw
+BrÃ¸nsted
+Psyberition
+Belathus
+Xavier
+AdaraChristine
+NickT
+Ncc1702
+Peregrinus11
+Mouse
+Jonathan McManus
+Jams
+Ivy_
+Shotguun29
+Otakup0pe
+If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
+
+[PREINITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit]]
+[PREINITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [preinit]
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: mat_pair.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: quarris\oredict.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: seeds.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: tinkers_parts.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: tinkers_removal.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 1ms
+[PREINITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [gregtech]]
+[PREINITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [gregtech]
+[PREINITIALIZATION][CLIENT][INFO] [gregtech | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: mat_pair.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [gregtech | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: quarris\oredict.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [gregtech | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: seeds.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [gregtech | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: tinkers_parts.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [gregtech | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: tinkers_removal.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 0ms
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Building registry
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [gregtech], [recipeevent | crafttweaker]]
+[INITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: mat_pair.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: quarris\oredict.zs}
+[INITIALIZATION][CLIENT][INFO] Adding Rock Axe Head to ore dictionary entry axeHeadStone
+[INITIALIZATION][CLIENT][INFO] Adding Rock Axe Head to ore dictionary entry axeHeadStone
+[INITIALIZATION][CLIENT][INFO] Adding Rock Axe Head to ore dictionary entry axeHeadStone
+[INITIALIZATION][CLIENT][INFO] Adding Rock Axe Head to ore dictionary entry axeHeadStone
+[INITIALIZATION][CLIENT][INFO] Adding Rock Knife Blade to ore dictionary entry knifeHeadStone
+[INITIALIZATION][CLIENT][INFO] Adding Rock Knife Blade to ore dictionary entry knifeHeadStone
+[INITIALIZATION][CLIENT][INFO] Adding Rock Knife Blade to ore dictionary entry knifeHeadStone
+[INITIALIZATION][CLIENT][INFO] Adding Rock Knife Blade to ore dictionary entry knifeHeadStone
+[INITIALIZATION][CLIENT][INFO] Adding Acacia Log to ore dictionary entry logTrueWoodTFC
+[INITIALIZATION][CLIENT][INFO] Adding Ash Log to ore dictionary entry logTrueWoodTFC
+[INITIALIZATION][CLIENT][INFO] Adding Aspen Log to ore dictionary entry logTrueWoodTFC
+[INITIALIZATION][CLIENT][INFO] Adding Birch Log to ore dictionary entry logTrueWoodTFC
+[INITIALIZATION][CLIENT][INFO] Adding Blackwood Log to ore dictionary entry logTrueWoodTFC
+[INITIALIZATION][CLIENT][INFO] Adding Chestnut Log to ore dictionary entry logTrueWoodTFC
+[INITIALIZATION][CLIENT][INFO] Adding Douglas Fir Log to ore dictionary entry logTrueWoodTFC
+[INITIALIZATION][CLIENT][INFO] Adding Hickory Log to ore dictionary entry logTrueWoodTFC
+[INITIALIZATION][CLIENT][INFO] Adding Kapok Log to ore dictionary entry logTrueWoodTFC
+[INITIALIZATION][CLIENT][INFO] Adding Maple Log to ore dictionary entry logTrueWoodTFC
+[INITIALIZATION][CLIENT][INFO] Adding Oak Log to ore dictionary entry logTrueWoodTFC
+[INITIALIZATION][CLIENT][INFO] Adding Palm Log to ore dictionary entry logTrueWoodTFC
+[INITIALIZATION][CLIENT][INFO] Adding Pine Log to ore dictionary entry logTrueWoodTFC
+[INITIALIZATION][CLIENT][INFO] Adding Rosewood Log to ore dictionary entry logTrueWoodTFC
+[INITIALIZATION][CLIENT][INFO] Adding Sequoia Log to ore dictionary entry logTrueWoodTFC
+[INITIALIZATION][CLIENT][INFO] Adding Spruce Log to ore dictionary entry logTrueWoodTFC
+[INITIALIZATION][CLIENT][INFO] Adding Sycamore Log to ore dictionary entry logTrueWoodTFC
+[INITIALIZATION][CLIENT][INFO] Adding White Cedar Log to ore dictionary entry logTrueWoodTFC
+[INITIALIZATION][CLIENT][INFO] Adding Willow Log to ore dictionary entry logTrueWoodTFC
+[INITIALIZATION][CLIENT][INFO] Adding Spruce Log to ore dictionary entry logTrueWoodTFC
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: seeds.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: tinkers_parts.zs}
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wooden Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wooden Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wooden Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wooden Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wooden Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wooden Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wooden Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wooden Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wooden Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wooden Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wooden Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wooden Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wooden Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wooden Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wooden Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wooden Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wooden Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wooden Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wooden Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wooden Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wooden Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wooden Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stone Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stone Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stone Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stone Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stone Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stone Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stone Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stone Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stone Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stone Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stone Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stone Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stone Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stone Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stone Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stone Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stone Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stone Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stone Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stone Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stone Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stone Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Flint Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Flint Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Flint Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Flint Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Flint Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Flint Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Flint Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Flint Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Flint Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Flint Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Flint Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Flint Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Flint Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Flint Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Flint Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Flint Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Flint Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Flint Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Flint Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Flint Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Flint Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Flint Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cactus Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cactus Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cactus Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cactus Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cactus Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cactus Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cactus Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cactus Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cactus Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cactus Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cactus Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cactus Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cactus Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cactus Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cactus Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cactus Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cactus Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cactus Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cactus Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cactus Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cactus Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cactus Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bone Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bone Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bone Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bone Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bone Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bone Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bone Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bone Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bone Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bone Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bone Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bone Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bone Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bone Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bone Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bone Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bone Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bone Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bone Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bone Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bone Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bone Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Prismarine Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Prismarine Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Prismarine Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Prismarine Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Prismarine Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Prismarine Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Prismarine Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Prismarine Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Prismarine Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Prismarine Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Prismarine Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Prismarine Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Prismarine Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Prismarine Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Prismarine Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Prismarine Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Prismarine Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Prismarine Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Prismarine Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Prismarine Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Prismarine Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Prismarine Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Obsidian Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Obsidian Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Obsidian Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Obsidian Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Obsidian Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Obsidian Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Obsidian Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Obsidian Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Obsidian Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Obsidian Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Obsidian Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Obsidian Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Obsidian Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Obsidian Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Obsidian Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Obsidian Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Obsidian Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Obsidian Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Obsidian Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Obsidian Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Obsidian Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Obsidian Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for End Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for End Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for End Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for End Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for End Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for End Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for End Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for End Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for End Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for End Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for End Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for End Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for End Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for End Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for End Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for End Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for End Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for End Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for End Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for End Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for End Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for End Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Paper Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Paper Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Paper Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Paper Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Paper Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Paper Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Paper Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Paper Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Paper Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Paper Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Paper Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Paper Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Paper Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Paper Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Paper Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Paper Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Paper Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Paper Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Paper Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Paper Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Paper Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Paper Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sponge Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sponge Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sponge Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sponge Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sponge Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sponge Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sponge Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sponge Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sponge Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sponge Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sponge Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sponge Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sponge Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sponge Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sponge Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sponge Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sponge Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sponge Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sponge Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sponge Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sponge Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sponge Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Firewood Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Firewood Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Firewood Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Firewood Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Firewood Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Firewood Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Firewood Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Firewood Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Firewood Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Firewood Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Firewood Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Firewood Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Firewood Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Firewood Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Firewood Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Firewood Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Firewood Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Firewood Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Firewood Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Firewood Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Firewood Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Firewood Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iron Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iron Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iron Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iron Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iron Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iron Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iron Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iron Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iron Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iron Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iron Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iron Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iron Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iron Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iron Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iron Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iron Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iron Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iron Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iron Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iron Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iron Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Pig Iron Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Pig Iron Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Pig Iron Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Pig Iron Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Pig Iron Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Pig Iron Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Pig Iron Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Pig Iron Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Pig Iron Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Pig Iron Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Pig Iron Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Pig Iron Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Pig Iron Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Pig Iron Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Pig Iron Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Pig Iron Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Pig Iron Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Pig Iron Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Pig Iron Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Pig Iron Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Pig Iron Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Pig Iron Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Knightslime Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Knightslime Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Knightslime Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Knightslime Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Knightslime Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Knightslime Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Knightslime Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Knightslime Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Knightslime Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Knightslime Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Knightslime Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Knightslime Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Knightslime Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Knightslime Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Knightslime Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Knightslime Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Knightslime Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Knightslime Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Knightslime Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Knightslime Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Knightslime Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Knightslime Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Slime Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Slime Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Slime Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Slime Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Slime Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Slime Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Slime Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Slime Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Slime Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Slime Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Slime Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Slime Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Slime Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Slime Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Slime Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Slime Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Slime Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Slime Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Slime Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Slime Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Slime Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Slime Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Netherrack Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Netherrack Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Netherrack Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Netherrack Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Netherrack Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Netherrack Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Netherrack Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Netherrack Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Netherrack Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Netherrack Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Netherrack Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Netherrack Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Netherrack Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Netherrack Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Netherrack Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Netherrack Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Netherrack Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Netherrack Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Netherrack Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Netherrack Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Netherrack Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Netherrack Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ardite Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ardite Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ardite Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ardite Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ardite Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ardite Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ardite Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ardite Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ardite Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ardite Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ardite Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ardite Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ardite Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ardite Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ardite Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ardite Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ardite Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ardite Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ardite Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ardite Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ardite Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ardite Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manyullyn Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manyullyn Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manyullyn Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manyullyn Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manyullyn Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manyullyn Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manyullyn Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manyullyn Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manyullyn Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manyullyn Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manyullyn Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manyullyn Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manyullyn Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manyullyn Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manyullyn Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manyullyn Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manyullyn Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manyullyn Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manyullyn Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manyullyn Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manyullyn Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manyullyn Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Copper Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Copper Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Copper Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Copper Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Copper Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Copper Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Copper Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Copper Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Copper Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Copper Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Copper Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Copper Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Copper Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Copper Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Copper Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Copper Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Copper Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Copper Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Copper Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Copper Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Copper Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Copper Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bronze Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bronze Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bronze Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bronze Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bronze Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bronze Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bronze Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bronze Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bronze Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bronze Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bronze Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bronze Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bronze Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bronze Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bronze Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bronze Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bronze Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bronze Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bronze Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bronze Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bronze Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bronze Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Lead Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Lead Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Lead Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Lead Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Lead Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Lead Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Lead Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Lead Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Lead Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Lead Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Lead Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Lead Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Lead Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Lead Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Lead Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Lead Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Lead Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Lead Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Lead Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Lead Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Lead Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Lead Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Silver Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Silver Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Silver Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Silver Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Silver Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Silver Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Silver Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Silver Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Silver Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Silver Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Silver Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Silver Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Silver Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Silver Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Silver Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Silver Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Silver Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Silver Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Silver Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Silver Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Silver Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Silver Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Steel Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Steel Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Steel Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Steel Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Steel Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Steel Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Steel Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Steel Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Steel Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Steel Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Steel Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Steel Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Steel Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Steel Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Steel Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Steel Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Steel Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Steel Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Steel Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Steel Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Steel Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Steel Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Aluminium Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Aluminium Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Aluminium Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Aluminium Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Aluminium Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Aluminium Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Aluminium Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Aluminium Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Aluminium Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Aluminium Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Aluminium Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Aluminium Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Aluminium Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Aluminium Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Aluminium Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Aluminium Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Aluminium Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Aluminium Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Aluminium Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Aluminium Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Aluminium Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Aluminium Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chrome Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chrome Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chrome Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chrome Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chrome Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chrome Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chrome Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chrome Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chrome Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chrome Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chrome Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chrome Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chrome Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chrome Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chrome Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chrome Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chrome Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chrome Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chrome Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chrome Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chrome Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chrome Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iridium Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iridium Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iridium Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iridium Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iridium Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iridium Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iridium Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iridium Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iridium Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iridium Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iridium Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iridium Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iridium Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iridium Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iridium Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iridium Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iridium Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iridium Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iridium Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iridium Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iridium Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Iridium Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manganese Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manganese Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manganese Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manganese Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manganese Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manganese Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manganese Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manganese Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manganese Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manganese Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manganese Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manganese Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manganese Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manganese Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manganese Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manganese Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manganese Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manganese Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manganese Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manganese Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manganese Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Manganese Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Molybdenum Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Molybdenum Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Molybdenum Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Molybdenum Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Molybdenum Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Molybdenum Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Molybdenum Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Molybdenum Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Molybdenum Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Molybdenum Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Molybdenum Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Molybdenum Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Molybdenum Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Molybdenum Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Molybdenum Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Molybdenum Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Molybdenum Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Molybdenum Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Molybdenum Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Molybdenum Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Molybdenum Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Molybdenum Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Electrum Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Electrum Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Electrum Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Electrum Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Electrum Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Electrum Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Electrum Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Electrum Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Electrum Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Electrum Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Electrum Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Electrum Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Electrum Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Electrum Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Electrum Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Electrum Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Electrum Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Electrum Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Electrum Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Electrum Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Electrum Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Electrum Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neodymium Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neodymium Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neodymium Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neodymium Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neodymium Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neodymium Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neodymium Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neodymium Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neodymium Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neodymium Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neodymium Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neodymium Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neodymium Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neodymium Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neodymium Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neodymium Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neodymium Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neodymium Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neodymium Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neodymium Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neodymium Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neodymium Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Darmstadtium Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Darmstadtium Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Darmstadtium Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Darmstadtium Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Darmstadtium Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Darmstadtium Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Darmstadtium Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Darmstadtium Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Darmstadtium Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Darmstadtium Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Darmstadtium Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Darmstadtium Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Darmstadtium Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Darmstadtium Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Darmstadtium Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Darmstadtium Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Darmstadtium Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Darmstadtium Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Darmstadtium Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Darmstadtium Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Darmstadtium Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Darmstadtium Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmium Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmium Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmium Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmium Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmium Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmium Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmium Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmium Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmium Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmium Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmium Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmium Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmium Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmium Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmium Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmium Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmium Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmium Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmium Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmium Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmium Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmium Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Palladium Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Palladium Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Palladium Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Palladium Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Palladium Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Palladium Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Palladium Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Palladium Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Palladium Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Palladium Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Palladium Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Palladium Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Palladium Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Palladium Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Palladium Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Palladium Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Palladium Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Palladium Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Palladium Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Palladium Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Palladium Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Palladium Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Thorium Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Thorium Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Thorium Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Thorium Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Thorium Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Thorium Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Thorium Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Thorium Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Thorium Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Thorium Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Thorium Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Thorium Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Thorium Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Thorium Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Thorium Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Thorium Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Thorium Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Thorium Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Thorium Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Thorium Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Thorium Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Thorium Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Titanium Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Titanium Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Titanium Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Titanium Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Titanium Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Titanium Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Titanium Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Titanium Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Titanium Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Titanium Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Titanium Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Titanium Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Titanium Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Titanium Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Titanium Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Titanium Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Titanium Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Titanium Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Titanium Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Titanium Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Titanium Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Titanium Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium-235 Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium-235 Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium-235 Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium-235 Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium-235 Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium-235 Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium-235 Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium-235 Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium-235 Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium-235 Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium-235 Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium-235 Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium-235 Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium-235 Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium-235 Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium-235 Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium-235 Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium-235 Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium-235 Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium-235 Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium-235 Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Uranium-235 Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Brass Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Brass Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Brass Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Brass Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Brass Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Brass Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Brass Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Brass Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Brass Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Brass Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Brass Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Brass Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Brass Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Brass Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Brass Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Brass Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Brass Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Brass Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Brass Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Brass Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Brass Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Brass Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Invar Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Invar Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Invar Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Invar Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Invar Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Invar Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Invar Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Invar Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Invar Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Invar Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Invar Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Invar Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Invar Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Invar Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Invar Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Invar Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Invar Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Invar Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Invar Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Invar Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Invar Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Invar Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnalium Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnalium Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnalium Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnalium Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnalium Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnalium Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnalium Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnalium Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnalium Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnalium Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnalium Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnalium Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnalium Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnalium Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnalium Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnalium Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnalium Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnalium Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnalium Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnalium Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnalium Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnalium Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stainless Steel Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stainless Steel Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stainless Steel Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stainless Steel Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stainless Steel Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stainless Steel Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stainless Steel Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stainless Steel Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stainless Steel Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stainless Steel Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stainless Steel Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stainless Steel Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stainless Steel Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stainless Steel Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stainless Steel Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stainless Steel Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stainless Steel Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stainless Steel Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stainless Steel Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stainless Steel Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stainless Steel Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Stainless Steel Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ultimet Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ultimet Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ultimet Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ultimet Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ultimet Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ultimet Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ultimet Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ultimet Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ultimet Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ultimet Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ultimet Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ultimet Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ultimet Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ultimet Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ultimet Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ultimet Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ultimet Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ultimet Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ultimet Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ultimet Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ultimet Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ultimet Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wrought Iron Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wrought Iron Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wrought Iron Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wrought Iron Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wrought Iron Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wrought Iron Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wrought Iron Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wrought Iron Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wrought Iron Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wrought Iron Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wrought Iron Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wrought Iron Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wrought Iron Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wrought Iron Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wrought Iron Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wrought Iron Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wrought Iron Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wrought Iron Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wrought Iron Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wrought Iron Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wrought Iron Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wrought Iron Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmiridium Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmiridium Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmiridium Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmiridium Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmiridium Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmiridium Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmiridium Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmiridium Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmiridium Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmiridium Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmiridium Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmiridium Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmiridium Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmiridium Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmiridium Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmiridium Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmiridium Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmiridium Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmiridium Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmiridium Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmiridium Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Osmiridium Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sterling Silver Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sterling Silver Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sterling Silver Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sterling Silver Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sterling Silver Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sterling Silver Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sterling Silver Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sterling Silver Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sterling Silver Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sterling Silver Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sterling Silver Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sterling Silver Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sterling Silver Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sterling Silver Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sterling Silver Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sterling Silver Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sterling Silver Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sterling Silver Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sterling Silver Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sterling Silver Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sterling Silver Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sterling Silver Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Rose Gold Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Rose Gold Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Rose Gold Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Rose Gold Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Rose Gold Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Rose Gold Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Rose Gold Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Rose Gold Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Rose Gold Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Rose Gold Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Rose Gold Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Rose Gold Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Rose Gold Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Rose Gold Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Rose Gold Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Rose Gold Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Rose Gold Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Rose Gold Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Rose Gold Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Rose Gold Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Rose Gold Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Rose Gold Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Bronze Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Bronze Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Bronze Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Bronze Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Bronze Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Bronze Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Bronze Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Bronze Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Bronze Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Bronze Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Bronze Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Bronze Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Bronze Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Bronze Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Bronze Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Bronze Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Bronze Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Bronze Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Bronze Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Bronze Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Bronze Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Bronze Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bismuth Bronze Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bismuth Bronze Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bismuth Bronze Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bismuth Bronze Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bismuth Bronze Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bismuth Bronze Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bismuth Bronze Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bismuth Bronze Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bismuth Bronze Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bismuth Bronze Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bismuth Bronze Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bismuth Bronze Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bismuth Bronze Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bismuth Bronze Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bismuth Bronze Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bismuth Bronze Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bismuth Bronze Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bismuth Bronze Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bismuth Bronze Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bismuth Bronze Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bismuth Bronze Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bismuth Bronze Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Steel Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Steel Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Steel Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Steel Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Steel Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Steel Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Steel Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Steel Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Steel Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Steel Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Steel Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Steel Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Steel Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Steel Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Steel Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Steel Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Steel Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Steel Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Steel Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Steel Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Steel Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Black Steel Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Red Steel Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Red Steel Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Red Steel Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Red Steel Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Red Steel Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Red Steel Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Red Steel Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Red Steel Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Red Steel Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Red Steel Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Red Steel Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Red Steel Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Red Steel Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Red Steel Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Red Steel Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Red Steel Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Red Steel Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Red Steel Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Red Steel Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Red Steel Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Red Steel Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Red Steel Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Steel Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Steel Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Steel Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Steel Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Steel Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Steel Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Steel Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Steel Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Steel Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Steel Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Steel Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Steel Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Steel Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Steel Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Steel Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Steel Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Steel Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Steel Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Steel Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Steel Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Steel Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Steel Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Damascus Steel Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Damascus Steel Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Damascus Steel Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Damascus Steel Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Damascus Steel Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Damascus Steel Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Damascus Steel Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Damascus Steel Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Damascus Steel Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Damascus Steel Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Damascus Steel Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Damascus Steel Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Damascus Steel Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Damascus Steel Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Damascus Steel Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Damascus Steel Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Damascus Steel Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Damascus Steel Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Damascus Steel Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Damascus Steel Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Damascus Steel Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Damascus Steel Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Brass Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Brass Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Brass Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Brass Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Brass Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Brass Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Brass Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Brass Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Brass Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Brass Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Brass Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Brass Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Brass Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Brass Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Brass Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Brass Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Brass Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Brass Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Brass Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Brass Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Brass Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cobalt Brass Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungstensteel Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungstensteel Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungstensteel Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungstensteel Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungstensteel Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungstensteel Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungstensteel Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungstensteel Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungstensteel Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungstensteel Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungstensteel Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungstensteel Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungstensteel Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungstensteel Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungstensteel Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungstensteel Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungstensteel Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungstensteel Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungstensteel Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungstensteel Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungstensteel Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungstensteel Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Carbide Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Carbide Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Carbide Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Carbide Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Carbide Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Carbide Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Carbide Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Carbide Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Carbide Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Carbide Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Carbide Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Carbide Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Carbide Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Carbide Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Carbide Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Carbide Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Carbide Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Carbide Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Carbide Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Carbide Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Carbide Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tungsten Carbide Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Vanadiumsteel Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Vanadiumsteel Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Vanadiumsteel Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Vanadiumsteel Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Vanadiumsteel Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Vanadiumsteel Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Vanadiumsteel Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Vanadiumsteel Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Vanadiumsteel Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Vanadiumsteel Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Vanadiumsteel Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Vanadiumsteel Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Vanadiumsteel Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Vanadiumsteel Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Vanadiumsteel Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Vanadiumsteel Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Vanadiumsteel Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Vanadiumsteel Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Vanadiumsteel Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Vanadiumsteel Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Vanadiumsteel Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Vanadiumsteel Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-G Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-G Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-G Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-G Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-G Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-G Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-G Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-G Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-G Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-G Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-G Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-G Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-G Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-G Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-G Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-G Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-G Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-G Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-G Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-G Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-G Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-G Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-E Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-E Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-E Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-E Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-E Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-E Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-E Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-E Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-E Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-E Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-E Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-E Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-E Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-E Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-E Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-E Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-E Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-E Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-E Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-E Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-E Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-E Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-S Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-S Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-S Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-S Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-S Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-S Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-S Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-S Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-S Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-S Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-S Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-S Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-S Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-S Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-S Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-S Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-S Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-S Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-S Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-S Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-S Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for HSS-S Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Alloy Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Alloy Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Alloy Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Alloy Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Alloy Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Alloy Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Alloy Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Alloy Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Alloy Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Alloy Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Alloy Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Alloy Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Alloy Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Alloy Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Alloy Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Alloy Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Alloy Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Alloy Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Alloy Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Alloy Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Alloy Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Naquadah Alloy Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tritanium Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tritanium Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tritanium Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tritanium Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tritanium Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tritanium Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tritanium Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tritanium Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tritanium Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tritanium Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tritanium Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tritanium Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tritanium Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tritanium Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tritanium Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tritanium Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tritanium Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tritanium Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tritanium Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tritanium Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tritanium Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tritanium Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Duranium Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Duranium Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Duranium Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Duranium Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Duranium Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Duranium Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Duranium Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Duranium Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Duranium Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Duranium Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Duranium Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Duranium Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Duranium Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Duranium Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Duranium Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Duranium Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Duranium Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Duranium Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Duranium Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Duranium Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Duranium Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Duranium Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.rhodium_plated_palladium.name Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.rhodium_plated_palladium.name Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.rhodium_plated_palladium.name Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.rhodium_plated_palladium.name Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.rhodium_plated_palladium.name Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.rhodium_plated_palladium.name Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.rhodium_plated_palladium.name Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.rhodium_plated_palladium.name Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.rhodium_plated_palladium.name Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.rhodium_plated_palladium.name Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.rhodium_plated_palladium.name Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.rhodium_plated_palladium.name Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.rhodium_plated_palladium.name Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.rhodium_plated_palladium.name Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.rhodium_plated_palladium.name Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.rhodium_plated_palladium.name Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.rhodium_plated_palladium.name Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.rhodium_plated_palladium.name Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.rhodium_plated_palladium.name Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.rhodium_plated_palladium.name Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.rhodium_plated_palladium.name Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.rhodium_plated_palladium.name Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.enderium.name Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.enderium.name Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.enderium.name Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.enderium.name Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.enderium.name Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.enderium.name Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.enderium.name Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.enderium.name Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.enderium.name Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.enderium.name Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.enderium.name Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.enderium.name Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.enderium.name Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.enderium.name Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.enderium.name Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.enderium.name Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.enderium.name Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.enderium.name Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.enderium.name Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.enderium.name Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.enderium.name Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for material.enderium.name Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neutronium Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neutronium Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neutronium Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neutronium Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neutronium Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neutronium Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neutronium Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neutronium Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neutronium Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neutronium Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neutronium Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neutronium Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neutronium Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neutronium Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neutronium Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neutronium Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neutronium Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neutronium Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neutronium Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neutronium Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neutronium Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Neutronium Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Topaz Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Topaz Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Topaz Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Topaz Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Topaz Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Topaz Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Topaz Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Topaz Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Topaz Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Topaz Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Topaz Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Topaz Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Topaz Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Topaz Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Topaz Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Topaz Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Topaz Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Topaz Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Topaz Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Topaz Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Topaz Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Blue Topaz Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Diamond Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Diamond Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Diamond Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Diamond Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Diamond Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Diamond Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Diamond Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Diamond Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Diamond Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Diamond Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Diamond Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Diamond Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Diamond Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Diamond Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Diamond Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Diamond Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Diamond Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Diamond Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Diamond Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Diamond Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Diamond Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Diamond Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Emerald Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Emerald Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Emerald Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Emerald Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Emerald Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Emerald Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Emerald Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Emerald Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Emerald Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Emerald Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Emerald Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Emerald Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Emerald Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Emerald Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Emerald Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Emerald Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Emerald Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Emerald Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Emerald Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Emerald Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Emerald Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Emerald Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Green Sapphire Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Green Sapphire Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Green Sapphire Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Green Sapphire Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Green Sapphire Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Green Sapphire Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Green Sapphire Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Green Sapphire Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Green Sapphire Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Green Sapphire Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Green Sapphire Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Green Sapphire Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Green Sapphire Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Green Sapphire Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Green Sapphire Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Green Sapphire Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Green Sapphire Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Green Sapphire Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Green Sapphire Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Green Sapphire Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Green Sapphire Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Green Sapphire Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ruby Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ruby Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ruby Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ruby Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ruby Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ruby Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ruby Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ruby Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ruby Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ruby Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ruby Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ruby Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ruby Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ruby Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ruby Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ruby Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ruby Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ruby Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ruby Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ruby Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ruby Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Ruby Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sapphire Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sapphire Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sapphire Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sapphire Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sapphire Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sapphire Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sapphire Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sapphire Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sapphire Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sapphire Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sapphire Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sapphire Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sapphire Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sapphire Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sapphire Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sapphire Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sapphire Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sapphire Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sapphire Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sapphire Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sapphire Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Sapphire Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tough Alloy Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tough Alloy Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tough Alloy Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tough Alloy Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tough Alloy Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tough Alloy Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tough Alloy Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tough Alloy Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tough Alloy Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tough Alloy Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tough Alloy Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tough Alloy Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tough Alloy Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tough Alloy Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tough Alloy Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tough Alloy Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tough Alloy Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tough Alloy Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tough Alloy Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tough Alloy Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tough Alloy Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Tough Alloy Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hard Carbon Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hard Carbon Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hard Carbon Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hard Carbon Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hard Carbon Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hard Carbon Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hard Carbon Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hard Carbon Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hard Carbon Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hard Carbon Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hard Carbon Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hard Carbon Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hard Carbon Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hard Carbon Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hard Carbon Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hard Carbon Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hard Carbon Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hard Carbon Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hard Carbon Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hard Carbon Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hard Carbon Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hard Carbon Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Boron Nitride Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Boron Nitride Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Boron Nitride Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Boron Nitride Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Boron Nitride Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Boron Nitride Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Boron Nitride Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Boron Nitride Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Boron Nitride Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Boron Nitride Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Boron Nitride Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Boron Nitride Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Boron Nitride Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Boron Nitride Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Boron Nitride Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Boron Nitride Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Boron Nitride Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Boron Nitride Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Boron Nitride Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Boron Nitride Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Boron Nitride Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Boron Nitride Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnesium Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnesium Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnesium Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnesium Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnesium Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnesium Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnesium Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnesium Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnesium Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnesium Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnesium Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnesium Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnesium Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnesium Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnesium Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnesium Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnesium Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnesium Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnesium Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnesium Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnesium Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Magnesium Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chocolate Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chocolate Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chocolate Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chocolate Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chocolate Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chocolate Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chocolate Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chocolate Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chocolate Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chocolate Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chocolate Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chocolate Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chocolate Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chocolate Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chocolate Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chocolate Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chocolate Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chocolate Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chocolate Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chocolate Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chocolate Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Chocolate Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Nickel Silver Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Nickel Silver Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Nickel Silver Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Nickel Silver Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Nickel Silver Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Nickel Silver Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Nickel Silver Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Nickel Silver Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Nickel Silver Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Nickel Silver Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Nickel Silver Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Nickel Silver Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Nickel Silver Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Nickel Silver Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Nickel Silver Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Nickel Silver Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Nickel Silver Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Nickel Silver Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Nickel Silver Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Nickel Silver Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Nickel Silver Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Nickel Silver Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Mithril Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Mithril Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Mithril Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Mithril Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Mithril Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Mithril Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Mithril Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Mithril Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Mithril Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Mithril Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Mithril Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Mithril Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Mithril Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Mithril Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Mithril Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Mithril Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Mithril Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Mithril Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Mithril Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Mithril Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Mithril Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Mithril Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Zircaloy Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Zircaloy Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Zircaloy Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Zircaloy Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Zircaloy Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Zircaloy Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Zircaloy Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Zircaloy Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Zircaloy Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Zircaloy Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Zircaloy Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Zircaloy Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Zircaloy Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Zircaloy Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Zircaloy Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Zircaloy Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Zircaloy Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Zircaloy Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Zircaloy Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Zircaloy Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Zircaloy Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Zircaloy Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Beryllium Copper Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Beryllium Copper Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Beryllium Copper Shovel Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Beryllium Copper Broad Axe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Beryllium Copper Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Beryllium Copper Large Sword Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Hammer
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Beryllium Copper Excavator Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Beryllium Copper Kama Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Beryllium Copper Scythe Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Beryllium Copper Pan
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Beryllium Copper Sign Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Beryllium Copper Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Beryllium Copper Tough Tool Rod
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Beryllium Copper Binding
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Beryllium Copper Wide Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Beryllium Copper Hand Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Beryllium Copper Cross Guard
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Beryllium Copper Large Plate
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Beryllium Copper Knife Blade
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Beryllium Copper Bowlimb
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Beryllium Copper Arrow Head
+[INITIALIZATION][CLIENT][INFO] Adding anvil recipe for Beryllium Copper Prospector Pickaxe Head
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: tinkers_removal.zs}
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <tconstruct:pick_head>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <tfc_tinker:propick_head>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <tconstruct:axe_head>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <tconstruct:shovel_head>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <tconstruct:broad_axe_head>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <tconstruct:sword_blade>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <tconstruct:large_sword_blade>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <tconstruct:hammer>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <tconstruct:excavator_head>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <tconstruct:kama_head>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <tconstruct:scythe_head>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <tconstruct:sign_head>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <tconstruct:pan_head>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <tconstruct:tool_rod>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <tconstruct:tough_tool_rod>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <tconstruct:binding>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <tconstruct:wide_guard>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <tconstruct:cross_guard>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <tconstruct:large_plate>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <tconstruct:knife_blade>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <tconstruct:bow_limb>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <tconstruct:arrow_head>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <tconstruct:knife_blade>
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 329ms
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipes for various outputs

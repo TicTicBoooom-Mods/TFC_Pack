@@ -1,0 +1,53 @@
+{
+	title: "Sticks and Stone",
+	x: 0.0d,
+	y: 0.0d,
+	description: "Starting supplies",
+	text: [
+		"As you spawn you will find that the world is filled with stick and rocks lying on the ground.",
+		"",
+		"Pick them up when you get the chance, you will need them to get your first set of stone tools."
+	],
+	tasks: [{
+		uid: "369a3371",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "rock",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any rock"
+				}
+			}
+		}],
+		count: 3L,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "16ea5690",
+		type: "item",
+		title: "Stick",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "stickWood",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any stickWood"
+				}
+			}
+		}],
+		count: 2L
+	}]
+}

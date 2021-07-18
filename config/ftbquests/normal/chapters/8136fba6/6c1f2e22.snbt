@@ -1,0 +1,64 @@
+{
+	title: "Knapping and Tool Heads",
+	x: 1.5d,
+	y: 0.0d,
+	description: "Introduction to the concept of knapping",
+	text: [
+		"Knapping is a mechanic used with a few resources in TFC such as but limited to:",
+		"  - Stone",
+		"  - Clay",
+		"  - Leather",
+		"Start off by crating yourself an axe head and a knife blade.",
+		"",
+		"To start knapping simply hold the resource in your hand and Right Click; a gui with 5x5 grid will pop up.",
+		"Start clicking tiles on this grid to remove them.",
+		"You can find all knapping recipes using JEI.",
+		"",
+		"N.B.",
+		"You sometimes need more than one of the resource type to start knapping.",
+		"For example, you need 2 rocks and 5 clay, while leather requires a knife in your inventory."
+	],
+	dependencies: [
+		"38775d09"
+	],
+	tasks: [{
+		uid: "0c3a34d8",
+		type: "item",
+		title: "Axe Head",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "axeHeadStone",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any axeHeadStone"
+				}
+			}
+		}]
+	},
+	{
+		uid: "211ff411",
+		type: "item",
+		title: "Knife Blade",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "knifeHeadStone",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any knifeHeadStone"
+				}
+			}
+		}]
+	}]
+}

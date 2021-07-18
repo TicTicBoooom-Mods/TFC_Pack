@@ -1,0 +1,59 @@
+{
+	title: "Your first rock tools",
+	x: 3.0d,
+	y: 0.0d,
+	description: "Create your tools and start gathering resources",
+	text: [
+		"An axe and knife are the required start to progress in TFC.",
+		"Use the axe to chop down trees and get logs.",
+		"With the knife, break tall grass to get thatch.",
+		"Logs and thach will soon be used in the next step when you start firing the pit kiln!"
+	],
+	dependencies: [
+		"6c1f2e22"
+	],
+	tasks: [{
+		uid: "b0c3a251",
+		type: "item",
+		title: "Rock Axe",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "axeStone",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any axeStone"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "99f7792e",
+		type: "item",
+		title: "Rock Knife",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "knifeStone",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any knifeStone"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

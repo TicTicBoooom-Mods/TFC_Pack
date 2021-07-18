@@ -1,0 +1,20 @@
+{
+	title: "Water Types",
+	disable_toast: true,
+	x: -2.5d,
+	y: -2.5d,
+	text: [
+		"There are 3 main types of water in TFC: Salt, Fresh and Hot Spring.",
+		"Only Fresh and Hot Spring water can be drank to quench your thirst.",
+		"Simply Right Click on the water to drink it, later on you will be able to craft containers to hold the water."
+	],
+	dependencies: [
+		"bb9d7417"
+	],
+	tasks: [{
+		uid: "7c122dc7",
+		type: "checkmark",
+		title: "Water",
+		icon: "mysticalagriculture:crafting 1 48"
+	}]
+}
