@@ -15,6 +15,9 @@ local/
 backups/
 journeymap/
 tutorials/
+scripts/.zsrc
 options.txt
 usercache.json
+usernamecache.json
 config/jei/bookmarks.ini
+crafttweaker.log
