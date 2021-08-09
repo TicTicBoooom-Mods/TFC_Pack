@@ -1,0 +1,22 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "504a4bfa",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "seedTFC",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any seedTFC"
+				}
+			}
+		}]
+	}]
+}

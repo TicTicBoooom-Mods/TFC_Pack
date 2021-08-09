@@ -1,0 +1,74 @@
+{
+	x: 6.0d,
+	y: 1.5d,
+	dependencies: [
+		"d5c4fc03"
+	],
+	tasks: [{
+		uid: "2e199eaf",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreSmallCopper",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any oreSmallCopper"
+				}
+			}
+		}],
+		count: 8L
+	},
+	{
+		uid: "0f2af932",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreSmallTin",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any oreSmallTin"
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "5cc79b39",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				Parent: {
+					heat: 0.0f,
+					ticks: -1L
+				}
+			},
+			id: "tfc:ore/native_copper",
+			Damage: 2s
+		},
+		count: 5
+	},
+	{
+		uid: "da688cee",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				Parent: {
+					heat: 0.0f,
+					ticks: -1L
+				}
+			},
+			id: "tfc:ore/cassiterite",
+			Damage: 2s
+		},
+		count: 5
+	}]
+}

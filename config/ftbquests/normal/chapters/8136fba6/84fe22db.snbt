@@ -1,0 +1,18 @@
+{
+	x: 9.5d,
+	y: -6.5d,
+	tasks: [{
+		uid: "85046cda",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					heat: 0.0f,
+					Empty: "",
+					ticks: -1L
+				}
+			},
+			id: "tfc:ceramics/fired/mold/hammer_head"
+		}]
+	}]
+}

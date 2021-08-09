@@ -1,0 +1,18 @@
+{
+	x: 10.5d,
+	y: -5.5d,
+	tasks: [{
+		uid: "987c66b8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					heat: 0.0f,
+					Empty: "",
+					ticks: -1L
+				}
+			},
+			id: "tfc:ceramics/fired/mold/sword_blade"
+		}]
+	}]
+}
